@@ -34,6 +34,7 @@ a:hover {
   display: flex;
   margin: auto;
 }
+
 .hero {
   height: 100vh;
   background-image:  URL("test.jpg");
@@ -41,8 +42,11 @@ a:hover {
   background-position:center;
   justify-content: center;
   display: flex;
+  flex-direction: column;
   align-items: center;
 }
+
 .hero h1 {
   margin: 0;
 }
+

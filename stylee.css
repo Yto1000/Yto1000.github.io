@@ -1,0 +1,23 @@
+.menu {
+display: flex;
+list-style-type:none;
+column-gap: 50px;
+justify-content: center;
+font-size: 35px;
+}
+
+.sart {
+
+flex-direction: column;
+}
+
+body {
+background-color: #31a1ad;
+}
+a {
+    color:#fb4d08
+}
+
+h1 {
+    font-size: 100px;
+}
