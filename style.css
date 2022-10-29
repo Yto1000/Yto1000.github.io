@@ -31,6 +31,7 @@ line-height: 24px;
     max-width: 1440px;
     height: 100vh;
     margin: 0 auto;
+    gap: 0px 22px;
  }
 
 .left {
@@ -51,12 +52,16 @@ flex-basis:0;
     border-radius: 44px;
     background-color: #ccc;
     padding: 20px;
-    width: 588px;
+    width: 623px;
+    height: 344px;
 }
 
 .image {
 height: 400px;
-background-size: cover ;
+background-size: cover;
+
+
+
 }
 
 .img_1 {
