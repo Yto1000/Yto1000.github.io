@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.page-container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.page-header {
+    background-color:#222222;
+    padding: 0 160px;
+    color: #D4D4D4;
+}
+
+.menu {
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    padding: 0;
+}
+.menu-item a {
+    color: #D4D4D4;
+    text-decoration: none;
+}
+
+.welcome {
+    max-width: 255px;
+    margin-left: 120px;
+}
+
+ h1 {
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+ }
+
+.header-left {
+
+}
+
+.header-right{
+
+}
+
+.header-logo {
+    margin-right: 60px;
+}
+
+.header-navigator {
+display: flex;
+align-items: center;
+}
